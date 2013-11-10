@@ -5,7 +5,7 @@
   This example code is in the public domain.
  */
 // библиотека используется для получения температуры с датчиков DHT-11
-#include <dht.h>
+#include "dht.h"
  
 // количество обогревателей
 #define HEATERS 3
