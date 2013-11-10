@@ -1,4 +1,4 @@
 smsheater
 =========
 
-Fireware of Arduino for control temperatore by SMS.
+Firmware of Arduino for control temperature by SMS.
